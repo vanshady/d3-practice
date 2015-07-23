@@ -1,1 +1,1 @@
-This folder is for my d3.js code when doing the practices in the book 《D3-Tips-and-Tricks》
+This folder is for my d3.js code when doing the practices in the book *D3-Tips-and-Tricks*
